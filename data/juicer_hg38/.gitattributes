@@ -1,0 +1,5 @@
+*.hic filter=lfs diff=lfs merge=lfs -text
+45-49_hg38_jui.hic filter=lfs diff=lfs merge=lfs -text
+50-53_hg38_jui.hic filter=lfs diff=lfs merge=lfs -text
+54-56_hg38_jui.hic filter=lfs diff=lfs merge=lfs -text
+57-59_hg38_jui.hic filter=lfs diff=lfs merge=lfs -text
